@@ -1,0 +1,2 @@
+# wheeloffortune
+Wheel of Fortune is a simple game where we have players in any numbers and then spin of wheel rotates and based on the choices in spin the player follows the provided action. This project implements the basic example with just a single dictionary  value of the phrases we can add more of the values in it and even add the list of the values for the given category for randomising the process and making it much more intact.
